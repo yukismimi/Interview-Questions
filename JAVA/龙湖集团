@@ -1,0 +1,27 @@
+开发岗 一面 9.8上午
+龙湖  9.8一面(岗位:上海，成都)
+常用的数据结构
+集合体系整体架构介绍下
+ArrayList和 LinkedList的使用场景区别
+HashMap中的红黑树，为什么要用
+红黑树和二叉树区别
+Feign中过滤器的原理(基于动态代理，手撕动态代理)
+Oauth2协议授权流程简单介绍
+Oauth2中后台token是存在服务JVM内存中，如果服务崩了的话，token失效了怎么处理(可以用Redis去实现持久化)
+手撕List转Map(简单，但是面试官说会Stream么，回答说不会)
+项目开发中最大的难点是什么？
+反问阶段
+二面  9.9 30分钟 (两个面试官，技术面和hr面同时进行)
+Distinct 和 Group. by
+replace 和 update区别
+主键，唯一索引，索引区别
+外键
+手写单例
+手撕字符串解析(四则运算和数字)
+Spring Cloud  和 Dubbo区别
+注册中心Rureka流程解释
+String StringBuilder 的区别
+Java中的容器讲讲
+sleep() 和wait()区别
+终面 9.16下午  视频面
+只面试了3分钟，就是简单聊聊
