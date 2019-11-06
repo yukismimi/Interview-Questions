@@ -1,0 +1,55 @@
+同花顺面试题
+
+1 Java基础方面 
+   
+   1 多线程同步的实现方式
+   2 hashmap 扩容方式
+   3 hashcode 作用
+   4 单例模式实现方式
+   5 数据的加密方式
+   6 项目使用的集合
+   7 并发工具类 collections
+   8 error和exception有什么区别? 常见的exception举例
+
+2 JVM
+   1 垃圾收集器的种类
+   2 每个垃圾收集器特点
+   3  JVM类加载机制
+   4 JAVA中常见的内存溢出问题
+   5 Jvm调优方式
+   6 JVM内存模型
+
+3 Redis
+   1 数据类型
+   2 redis使用方式
+   3 redis数据备份
+   4 redis雪崩
+   5 redis双写一致性的解决办法
+   6 项目的部署方式，实际应用
+
+4 spring方面
+   1 spring aop ioc
+   2 spring aop在项目中的实际应用
+   3 spring 事务传播行为
+   4 spring常见的设计模式
+   5 spring 动态代理，jdk代理
+   6 spring 自动注入的实现方式
+
+5 Mybatis
+    
+  1 缓存，关联查询
+
+6 Mysql
+   1 事务，索引，sql优化
+   2 连接查询
+   3 数据库隔离级别
+   4 数据库解决并发访问的方式
+  
+7 shiro
+   1 集群会话解决办法
+   2 权限控制的实现流程
+   3 这个主要考察项目中的实际应用
+
+8 分布式
+   1 主要为了分布式锁
+   2 分布式的实现方式
